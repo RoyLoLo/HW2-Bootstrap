@@ -1,0 +1,36 @@
+body{
+    background-image: url(../images/Sleeping-Forest-Emblem-WP.jpg);
+    background-size: 100%;
+       
+}
+
+        
+#biopic{
+    height:200px;
+    width:200px;
+    margin:10px;
+}
+
+#bodytext{
+    color:aliceblue;
+    font-size: 18px;
+    line-height:27px;
+    margin:5px;
+    
+}
+#portimg{
+    height: 160px;
+    width: 160px;
+    
+    
+}
+
+#porttxt{
+    position:absolute;
+    bottom:8px;
+    text-align: center;
+    background-color:lemonchiffon;
+    color: cornflowerblue;
+    width:160px;
+}
+
